@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\n\ This\ is\ the\ main\ class\ for\ the\ calculator.\ This\ class\ will\ focus\ on\ \n\ creating\ the\ calculator\ that\ shows\ on\ the\ screen.\ This\ calculator\ will\n\ work\ with\ the\ calculator\ with\ GUI\ and\ calculator\ engine.\ \n\ \n\n\ @author\ (Katherine\ Garcia)\ &\ Team\ Array\n\ @version\ December\ 16th,\ 2023)\n
+comment1.params=
+comment1.target=Calculator()
+comment1.text=\n\ Shows\ the\ new\ calculator\n
+comment2.params=
+comment2.target=void\ show()
+comment2.text=\n\ The\ method\ show()\ will\ make\ the\ calculator\ visible\ on\ the\ screen.\ \n\n\ \n\ @return\ \ \ \ the\ calculator\ will\ show\ if\ the\ boolean\ is\ true.\ \n
+numComments=3

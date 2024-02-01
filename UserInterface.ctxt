@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment0.text=\n\ This\ the\ user\ interface\ of\ the\ calculator.\ The\ user\ will\ be\ able\ to\ \n\ interact\ with\ the\ calculator.\ This\ class\ is\ responsible\ for\ putting\ up\ the\ \n\ calculator\ on\ the\ screen.\ It\ will\ refer\ to\ the\ calculations\ engine\ to\ \n\ complete\ the\ task.\n\ \n\ @author\:\ Jackie\ Fine\ &\ Team\ Array\n\ @version\ 2023.12.16\n
+comment1.params=engine
+comment1.target=UserInterface(Calculations)
+comment1.text=\n\ Create\ a\ user\ interface.\n\ @param\ engine\ The\ calculator\ engine.\n
+comment2.params=visible
+comment2.target=void\ setVisible(boolean)
+comment2.text=\n\ Set\ the\ visibility\ of\ the\ interface.\n\ @param\ visible\ true\ if\ the\ interface\ is\ to\ be\ made\ visible,\ false\ otherwise.\n
+comment3.params=
+comment3.target=void\ makeFrame()
+comment3.text=\n\ Make\ the\ frame\ for\ the\ user\ interface.\n
+comment4.params=panel\ buttonText\ action
+comment4.target=void\ addButton(java.awt.Container,\ java.lang.String,\ UserInterface.ButtonAction)
+comment4.text=\n\ Add\ a\ button\ to\ the\ button\ panel.\n\ @param\ panel\ The\ panel\ to\ receive\ the\ button.\n\ @param\ buttonText\ The\ text\ for\ the\ button.\n\ @param\ action\ Action\ to\ be\ taken\ by\ the\ button.\n
+comment5.params=panel\ digit
+comment5.target=void\ addNumberButton(java.awt.Container,\ int)
+comment5.text=\n\ Add\ a\ number\ button\ to\ the\ button\ panel.\n\ @param\ panel\ The\ panel\ to\ receive\ the\ button.\n\ @param\ digit\ The\ single\ digit\ on\ the\ button.\n
+comment6.params=
+comment6.target=void\ redisplay()
+comment6.text=\n\ Update\ the\ interface\ display\ to\ show\ the\ current\ value\ of\ the\ \n\ calculator.\n
+comment7.params=
+comment7.target=void\ showInfo()
+comment7.text=\n\ Toggle\ the\ info\ display\ in\ the\ calculator's\ status\ area\ between\ the\n\ author\ and\ version\ information.\n
+numComments=8
