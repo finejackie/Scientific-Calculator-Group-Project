@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Java Scientific Calculator 
+PURPOSE OF PROJECT: Final Project for Masters level JavaScript class
+VERSION or DATE: December 2023
+
