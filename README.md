@@ -1,5 +1,5 @@
 # Scientific-Calculator-Group-Project
-Basic JavaScript Scientific Calculator Program
+Basic JavaScript Scientific Calculator Program - Built with BlueJ
 
 Final group project for first semester MSCS JavaScript Class. 
 Task: Build any type of program with your team 
